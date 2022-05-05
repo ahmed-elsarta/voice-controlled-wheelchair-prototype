@@ -1,5 +1,11 @@
 # Voice controlled wheelchair (with a companion app)
 
+## What everything does.
+code for arduino => "Auto_chair/Auto_chair.ino"
+code for testing sensors => "Fall_detection/Fall_detection.ino"
+companion app is in "companion app" folder.
+for hardware installation keep reading.
+
 ## Summary
 This is just a Prototype for a voice controlled wheelchair designed to help quadriplegics who can't use a brain-computer interface or don't have enough mobility to steer the chair.
 
